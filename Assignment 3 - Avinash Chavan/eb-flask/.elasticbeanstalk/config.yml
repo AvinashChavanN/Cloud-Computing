@@ -1,0 +1,11 @@
+branch-defaults:
+  default:
+    environment: flask-sagar
+    group_suffix: null
+global:
+  application_name: flask-app
+  default_ec2_keyname: sagar-keypair
+  default_platform: python2.7
+  default_region: us-west-2
+  profile: null
+  sc: null
